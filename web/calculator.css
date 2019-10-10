@@ -1,0 +1,15 @@
+.product{
+    height: 400px; width: 400px;
+    margin: 0;
+    padding: 10px;
+    border: 1px #CCC solid;
+}
+.product input{
+    padding: 5px; margin: 5px;
+    width: 350px;
+    border: 1px solid blueviolet;
+    color: red;
+}
+.product label{
+    padding-left: 10px;
+}
